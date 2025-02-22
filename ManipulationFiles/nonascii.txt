@@ -1,0 +1,595 @@
+name	country	birth	position	foot	height	hmv
+ștefan iovan	<null>	<null>	<null>	<null>	<null>	<null>
+ștefan dobay	<null>	<null>	<null>	<null>	<null>	<null>
+željko čajkovski	<null>	<null>	<null>	<null>	<null>	<null>
+željko milinovič	<null>	<null>	<null>	<null>	<null>	<null>
+žarko tomašević	<null>	<null>	<null>	<null>	<null>	<null>
+žarko serafimovski	<null>	<null>	<null>	<null>	<null>	<null>
+žarko odžakov	<null>	<null>	<null>	<null>	<null>	<null>
+žan vipotnik	<null>	<null>	<null>	<null>	<null>	<null>
+žan karničnik	<null>	<null>	<null>	<null>	<null>	<null>
+štěpán vachoušek	<null>	<null>	<null>	<null>	<null>	<null>
+ştefan sameş	<null>	<null>	<null>	<null>	<null>	<null>
+łukasz teodorczyk	<null>	<null>	<null>	<null>	<null>	<null>
+łukasz szukała	<null>	<null>	<null>	<null>	<null>	<null>
+łukasz piszczek	<null>	<null>	<null>	<null>	<null>	<null>
+łukasz garguła	<null>	<null>	<null>	<null>	<null>	<null>
+ľudovít lancz	<null>	<null>	<null>	<null>	<null>	<null>
+ľuboš hanzel	<null>	<null>	<null>	<null>	<null>	<null>
+ľubomír šatka	<null>	<null>	<null>	<null>	<null>	<null>
+ľubomír reiter	<null>	<null>	<null>	<null>	<null>	<null>
+ľubomír moravčík	<null>	<null>	<null>	<null>	<null>	<null>
+ľubomír michalík	<null>	<null>	<null>	<null>	<null>	<null>
+ľubomír meszároš	<null>	<null>	<null>	<null>	<null>	<null>
+ģirts karlsons	<null>	<null>	<null>	<null>	<null>	<null>
+ēriks raisters	<null>	<null>	<null>	<null>	<null>	<null>
+ēriks pētersons	<null>	<null>	<null>	<null>	<null>	<null>
+ēriks pelcis	<null>	<null>	<null>	<null>	<null>	<null>
+đỗ duy mạnh	<null>	<null>	<null>	<null>	<null>	<null>
+đovani roso	<null>	<null>	<null>	<null>	<null>	<null>
+đorđe vujadinović	<null>	<null>	<null>	<null>	<null>	<null>
+đinh tiến thành	<null>	<null>	<null>	<null>	<null>	<null>
+þórður þórðarson	<null>	<null>	<null>	<null>	<null>	<null>
+þórður jónsson	<null>	<null>	<null>	<null>	<null>	<null>
+þórður guðjónsson	<null>	<null>	<null>	<null>	<null>	<null>
+þórir jóhann helgason	<null>	<null>	<null>	<null>	<null>	<null>
+þorvaldur örlygsson	<null>	<null>	<null>	<null>	<null>	<null>
+ünal karaman	<null>	<null>	<null>	<null>	<null>	<null>
+ümit karan	<null>	<null>	<null>	<null>	<null>	<null>
+ümit davala	<null>	<null>	<null>	<null>	<null>	<null>
+øyvind leonhardsen	<null>	<null>	<null>	<null>	<null>	<null>
+øssur hansen	<null>	<null>	<null>	<null>	<null>	<null>
+örn óskarsson	<null>	<null>	<null>	<null>	<null>	<null>
+örjan persson	<null>	<null>	<null>	<null>	<null>	<null>
+örjan martinsson	<null>	<null>	<null>	<null>	<null>	<null>
+óscar ulloa	<null>	<null>	<null>	<null>	<null>	<null>
+óscar sonejee	<null>	<null>	<null>	<null>	<null>	<null>
+óscar romero	<null>	<null>	<null>	<null>	<null>	<null>
+óscar rolando hernández	<null>	<null>	<null>	<null>	<null>	<null>
+óscar rojas	<null>	<null>	<null>	<null>	<null>	<null>
+óscar reyes	<null>	<null>	<null>	<null>	<null>	<null>
+óscar ramírez	<null>	<null>	<null>	<null>	<null>	<null>
+óscar míguez	<null>	<null>	<null>	<null>	<null>	<null>
+óscar gómez sánchez	<null>	<null>	<null>	<null>	<null>	<null>
+óscar duarte	<null>	<null>	<null>	<null>	<null>	<null>
+óscar carmelo sánchez	<null>	<null>	<null>	<null>	<null>	<null>
+óscar cardozo	<null>	<null>	<null>	<null>	<null>	<null>
+óscar alfaro	<null>	<null>	<null>	<null>	<null>	<null>
+óscar aguilera	<null>	<null>	<null>	<null>	<null>	<null>
+ítalo estupiñán	<null>	<null>	<null>	<null>	<null>	<null>
+ísak bergmann jóhannesson	<null>	<null>	<null>	<null>	<null>	<null>
+éverton ribeiro	<null>	<null>	<null>	<null>	<null>	<null>
+éver banega	<null>	<null>	<null>	<null>	<null>	<null>
+étienne n'tsunda	<null>	<null>	<null>	<null>	<null>	<null>
+étienne capoue	<null>	<null>	<null>	<null>	<null>	<null>
+érick sánchez	<null>	<null>	<null>	<null>	<null>	<null>
+éric pécout	<null>	<null>	<null>	<null>	<null>	<null>
+éric mouloungui	<null>	<null>	<null>	<null>	<null>	<null>
+éric assadourian	<null>	<null>	<null>	<null>	<null>	<null>
+émile veinante	<null>	<null>	<null>	<null>	<null>	<null>
+émile mpenza	<null>	<null>	<null>	<null>	<null>	<null>
+émerson ferreira da rosa	<null>	<null>	<null>	<null>	<null>	<null>
+élmer ponciano	<null>	<null>	<null>	<null>	<null>	<null>
+édouard kargu	<null>	<null>	<null>	<null>	<null>	<null>
+édouard crut	<null>	<null>	<null>	<null>	<null>	<null>
+édison méndez	<null>	<null>	<null>	<null>	<null>	<null>
+édgar gonzález	<null>	<null>	<null>	<null>	<null>	<null>
+édgar benítez	<null>	<null>	<null>	<null>	<null>	<null>
+édgar barreto	<null>	<null>	<null>	<null>	<null>	<null>
+éder militão	<null>	<null>	<null>	<null>	<null>	<null>
+éder aleixo de assis	<null>	<null>	<null>	<null>	<null>	<null>
+éder	<null>	<null>	<null>	<null>	<null>	<null>
+çağlar söyüncü	<null>	<null>	<null>	<null>	<null>	<null>
+åge hareide	<null>	<null>	<null>	<null>	<null>	<null>
+änis ben-hatira	<null>	<null>	<null>	<null>	<null>	<null>
+ásgeir sigurvinsson	<null>	<null>	<null>	<null>	<null>	<null>
+árni sveinsson	<null>	<null>	<null>	<null>	<null>	<null>
+ármann björnsson	<null>	<null>	<null>	<null>	<null>	<null>
+ári jónsson	<null>	<null>	<null>	<null>	<null>	<null>
+ángelo padilla	<null>	<null>	<null>	<null>	<null>	<null>
+ángel tejeda	<null>	<null>	<null>	<null>	<null>	<null>
+ángel sepúlveda	<null>	<null>	<null>	<null>	<null>	<null>
+ángel romero	<null>	<null>	<null>	<null>	<null>	<null>
+ángel romano	<null>	<null>	<null>	<null>	<null>	<null>
+ángel reyna	<null>	<null>	<null>	<null>	<null>	<null>
+ángel piedra	<null>	<null>	<null>	<null>	<null>	<null>
+ángel mena	<null>	<null>	<null>	<null>	<null>	<null>
+ángel maría villar	<null>	<null>	<null>	<null>	<null>	<null>
+ángel martínez	<null>	<null>	<null>	<null>	<null>	<null>
+ángel mariscal	<null>	<null>	<null>	<null>	<null>	<null>
+ángel labruna	<null>	<null>	<null>	<null>	<null>	<null>
+ángel jara saguier	<null>	<null>	<null>	<null>	<null>	<null>
+ángel guirado	<null>	<null>	<null>	<null>	<null>	<null>
+ángel fernández	<null>	<null>	<null>	<null>	<null>	<null>
+ángel di maría	Argentina	<null>	<null>	<null>	<null>	<null>
+ángel di maría	<null>	<null>	<null>	<null>	<null>	<null>
+ángel correa	<null>	<null>	<null>	<null>	<null>	<null>
+ángel cabrera	<null>	<null>	<null>	<null>	<null>	<null>
+ángel berni	<null>	<null>	<null>	<null>	<null>	<null>
+álvaro saborío	<null>	<null>	<null>	<null>	<null>	<null>
+álvaro recoba	<null>	<null>	<null>	<null>	<null>	<null>
+álvaro peña	<null>	<null>	<null>	<null>	<null>	<null>
+álvaro pereira	<null>	<null>	<null>	<null>	<null>	<null>
+álvaro negredo	<null>	<null>	<null>	<null>	<null>	<null>
+álvaro murillo	<null>	<null>	<null>	<null>	<null>	<null>
+álvaro morata	<null>	<null>	<null>	<null>	<null>	<null>
+álvaro grant	<null>	<null>	<null>	<null>	<null>	<null>
+álvaro cascante	<null>	<null>	<null>	<null>	<null>	<null>
+álex da rosa	<null>	<null>	<null>	<null>	<null>	<null>
+álex baena	<null>	<null>	<null>	<null>	<null>	<null>
+álex aguinaga	<null>	<null>	<null>	<null>	<null>	<null>
+ákos takács	<null>	<null>	<null>	<null>	<null>	<null>
+ákos buzsáky	<null>	<null>	<null>	<null>	<null>	<null>
+ádám szalai	<null>	<null>	<null>	<null>	<null>	<null>
+ádám nagy	<null>	<null>	<null>	<null>	<null>	<null>
+ádám lang	<null>	<null>	<null>	<null>	<null>	<null>
+ádám gyurcsó	<null>	<null>	<null>	<null>	<null>	<null>
+zéphirin zoko	<null>	<null>	<null>	<null>	<null>	<null>
+zé turbo	<null>	<null>	<null>	<null>	<null>	<null>
+zé roberto	<null>	<null>	<null>	<null>	<null>	<null>
+zé pedro	Portugal	1997-06-06 00:00:00	Defender	right	187	3000000
+zé pedro	Portugal	2002-01-16 00:00:00	Defender	left	190	<null>
+zé pedro	Portugal	1997-06-06 00:00:00	Defender	right	187	3000000
+zé pedro	Portugal	2002-01-16 00:00:00	Defender	left	190	<null>
+zé pedro	Portugal	1997-06-06 00:00:00	Defender	right	187	3000000
+zé pedro	Portugal	2002-01-16 00:00:00	Defender	left	190	<null>
+zé pedro	Portugal	1997-06-06 00:00:00	Defender	right	187	3000000
+zé pedro	Portugal	2002-01-16 00:00:00	Defender	left	190	<null>
+zé luís	Cape Verde	1991-01-24 00:00:00	Attack	left	184	10000000
+zé luís	Cape Verde	1991-01-24 00:00:00	Attack	left	184	10000000
+zé luís	Cape Verde	1991-01-24 00:00:00	Attack	left	184	10000000
+zé luís	Cape Verde	1991-01-24 00:00:00	Attack	left	184	10000000
+zé love	Brazil	1987-10-29 00:00:00	Attack	right	179	4000000
+zé love	Brazil	1987-10-29 00:00:00	Attack	right	179	4000000
+zé love	Brazil	1987-10-29 00:00:00	Attack	right	179	4000000
+zé love	Brazil	1987-10-29 00:00:00	Attack	right	179	4000000
+zé kalanga	<null>	<null>	<null>	<null>	<null>	<null>
+zé henrique	Brazil	2004-10-23 00:00:00	Goalkeeper	right	199	<null>
+zé henrique	Brazil	2004-10-23 00:00:00	Goalkeeper	right	199	<null>
+zé henrique	Brazil	2004-10-23 00:00:00	Goalkeeper	right	199	<null>
+zé henrique	Brazil	2004-10-23 00:00:00	Goalkeeper	right	199	<null>
+zé de mello	<null>	<null>	<null>	<null>	<null>	<null>
+zé castro	Portugal	1983-01-13 00:00:00	Defender	right	183	3000000
+zé castro	Portugal	1983-01-13 00:00:00	Defender	right	183	3000000
+zé castro	Portugal	1983-01-13 00:00:00	Defender	right	183	3000000
+zé castro	Portugal	1983-01-13 00:00:00	Defender	right	183	3000000
+zymer bytyqi	Kosovo	1996-09-11 00:00:00	Attack	right	176	5500000
+zymer bytyqi	Kosovo	1996-09-11 00:00:00	Attack	right	176	5500000
+zymer bytyqi	Kosovo	1996-09-11 00:00:00	Attack	right	176	5500000
+zymer bytyqi	<null>	<null>	<null>	<null>	<null>	<null>
+zymer bytyqi	Kosovo	1996-09-11 00:00:00	Attack	right	176	5500000
+zygfryd szołtysik	Poland	<null>	<null>	<null>	<null>	<null>
+zygfryd szołtysik	<null>	<null>	<null>	<null>	<null>	<null>
+zydrunas karcemarskas	Lithuania	1983-05-24 00:00:00	Goalkeeper	right	189	3200000
+zydrunas karcemarskas	Lithuania	1983-05-24 00:00:00	Goalkeeper	right	189	3200000
+zydrunas karcemarskas	Lithuania	1983-05-24 00:00:00	Goalkeeper	right	189	3200000
+zydrunas karcemarskas	Lithuania	1983-05-24 00:00:00	Goalkeeper	right	189	3200000
+zyad chaabo	<null>	<null>	<null>	<null>	<null>	<null>
+zvonko živković	<null>	<null>	<null>	<null>	<null>	<null>
+zvonko ivezić	<null>	<null>	<null>	<null>	<null>	<null>
+zvonimir vukić	<null>	<null>	<null>	<null>	<null>	<null>
+zvonimir vukic	Serbia	1979-07-19 00:00:00	Midfield	right	182	4500000
+zvonimir vukic	Serbia	1979-07-19 00:00:00	Midfield	right	182	4500000
+zvonimir vukic	Serbia	1979-07-19 00:00:00	Midfield	right	182	4500000
+zvonimir vukic	Serbia	1979-07-19 00:00:00	Midfield	right	182	4500000
+zvonimir soldo	<null>	<null>	<null>	<null>	<null>	<null>
+zvonimir boban	Croatia	<null>	<null>	<null>	<null>	<null>
+zvonimir boban	<null>	<null>	<null>	<null>	<null>	<null>
+zvjezdan misimović	<null>	<null>	<null>	<null>	<null>	<null>
+zvjezdan misimovic	Bosnia-Herzegovina	1982-06-05 00:00:00	Midfield	both	179	14500000
+zvjezdan misimovic	Bosnia-Herzegovina	1982-06-05 00:00:00	Midfield	both	179	14500000
+zvjezdan misimovic	Bosnia-Herzegovina	1982-06-05 00:00:00	Midfield	both	179	14500000
+zvjezdan misimovic	Bosnia-Herzegovina	1982-06-05 00:00:00	Midfield	both	179	14500000
+zvi rozen	<null>	<null>	<null>	<null>	<null>	<null>
+zvi farkash	<null>	<null>	<null>	<null>	<null>	<null>
+zvezdan čebinac	Yugoslavia	<null>	<null>	<null>	<null>	<null>
+zvezdan čebinac	<null>	<null>	<null>	<null>	<null>	<null>
+zvezdan cvetković	<null>	<null>	<null>	<null>	<null>	<null>
+zuriko davitashvili	Georgia	2001-02-15 00:00:00	Attack	right	175	8000000
+zuriko davitashvili	Georgia	2001-02-15 00:00:00	Attack	right	175	8000000
+zuriko davitashvili	Georgia	2001-02-15 00:00:00	Attack	right	175	8000000
+zuriko davitashvili	<null>	<null>	<null>	<null>	<null>	<null>
+zuriko davitashvili	Georgia	2001-02-15 00:00:00	Attack	right	175	8000000
+zuo shusheng	<null>	<null>	<null>	<null>	<null>	<null>
+zumratul hossain mithu	<null>	<null>	<null>	<null>	<null>	<null>
+zulkifli hamzah	<null>	<null>	<null>	<null>	<null>	<null>
+zulkarnaen zainal	<null>	<null>	<null>	<null>	<null>	<null>
+zuhair bakheet	<null>	<null>	<null>	<null>	<null>	<null>
+zubi	Spain	1993-05-21 00:00:00	Attack	left	181	<null>
+zubi	Spain	1993-05-21 00:00:00	Attack	left	181	<null>
+zubi	Spain	1993-05-21 00:00:00	Attack	left	181	<null>
+zubi	Spain	1993-05-21 00:00:00	Attack	left	181	<null>
+zsolt nagy	<null>	<null>	<null>	<null>	<null>	<null>
+zsolt kalmár	<null>	<null>	<null>	<null>	<null>	<null>
+zoumana camara	France	1979-04-03 00:00:00	Defender	right	182	6000000
+zoumana camara	France	1979-04-03 00:00:00	Defender	right	182	6000000
+zoumana camara	<null>	<null>	<null>	<null>	<null>	<null>
+zoumana camara	France	1979-04-03 00:00:00	Defender	right	182	6000000
+zoumana camara	France	1979-04-03 00:00:00	Defender	right	182	6000000
+zouheir dhaouadi	<null>	<null>	<null>	<null>	<null>	<null>
+zouhair feddal	Morocco	1989-12-23 00:00:00	Defender	left	191	6000000
+zouhair feddal	<null>	<null>	<null>	<null>	<null>	<null>
+zouhair feddal	Morocco	1989-12-23 00:00:00	Defender	left	191	6000000
+zouhair feddal	<null>	<null>	<null>	<null>	<null>	<null>
+zouhair feddal	Morocco	1989-12-23 00:00:00	Defender	left	191	6000000
+zouhair feddal	Morocco	1989-12-23 00:00:00	Defender	left	191	6000000
+zouhaier dhaouadi	<null>	<null>	<null>	<null>	<null>	<null>
+zoubeir baya	<null>	<null>	<null>	<null>	<null>	<null>
+zoran vulić	<null>	<null>	<null>	<null>	<null>	<null>
+zoran vujović	<null>	<null>	<null>	<null>	<null>	<null>
+zoran tošić	<null>	<null>	<null>	<null>	<null>	<null>
+zoran tosic	Serbia	1987-04-28 00:00:00	Attack	left	171	10000000
+zoran tosic	Serbia	1987-04-28 00:00:00	Attack	left	171	10000000
+zoran tosic	Serbia	1987-04-28 00:00:00	Attack	left	171	10000000
+zoran tosic	Serbia	1987-04-28 00:00:00	Attack	left	171	10000000
+zoran mirković	<null>	<null>	<null>	<null>	<null>	<null>
+zoran janković	<null>	<null>	<null>	<null>	<null>	<null>
+zoran filipović	<null>	<null>	<null>	<null>	<null>	<null>
+zoran boškovski	<null>	<null>	<null>	<null>	<null>	<null>
+zoltán varga	<null>	<null>	<null>	<null>	<null>	<null>
+zoltán szilvási	Hungary	1993-06-20 00:00:00	Defender	right	185	<null>
+zoltán szilvási	Hungary	1993-06-20 00:00:00	Defender	right	185	<null>
+zoltán szilvási	Hungary	1993-06-20 00:00:00	Defender	right	185	<null>
+zoltán szilvási	Hungary	1993-06-20 00:00:00	Defender	right	185	<null>
+zoltán stieber	<null>	<null>	<null>	<null>	<null>	<null>
+zoltán péter	<null>	<null>	<null>	<null>	<null>	<null>
+zoltán opata	<null>	<null>	<null>	<null>	<null>	<null>
+zoltán lipták	<null>	<null>	<null>	<null>	<null>	<null>
+zoltán kovács	<null>	<null>	<null>	<null>	<null>	<null>
+zoltán kereki	<null>	<null>	<null>	<null>	<null>	<null>
+zoltán halmosi	<null>	<null>	<null>	<null>	<null>	<null>
+zoltán gera	Hungary	1979-04-22 00:00:00	Midfield	both	183	4500000
+zoltán gera	Hungary	1979-04-22 00:00:00	Midfield	both	183	4500000
+zoltán gera	Hungary	1979-04-22 00:00:00	Midfield	both	183	4500000
+zoltán gera	<null>	<null>	<null>	<null>	<null>	<null>
+zoltán gera	Hungary	1979-04-22 00:00:00	Midfield	both	183	4500000
+zoltán czibor	<null>	<null>	<null>	<null>	<null>	<null>
+zoltán böőr	<null>	<null>	<null>	<null>	<null>	<null>
+zoltan stieber	<null>	<null>	<null>	<null>	<null>	<null>
+zoltan stieber	<null>	<null>	<null>	<null>	<null>	<null>
+zoltan gera	<null>	<null>	<null>	<null>	<null>	<null>
+zoltan crişan	<null>	<null>	<null>	<null>	<null>	<null>
+zola matumona	<null>	<null>	<null>	<null>	<null>	<null>
+zoilo saldombide	<null>	<null>	<null>	<null>	<null>	<null>
+zlatko čajkovski	<null>	<null>	<null>	<null>	<null>	<null>
+zlatko zahovič	Slovenia	<null>	<null>	<null>	<null>	<null>
+zlatko zahovič	<null>	<null>	<null>	<null>	<null>	<null>
+zlatko yankov	<null>	<null>	<null>	<null>	<null>	<null>
+zlatko vujović	<null>	<null>	<null>	<null>	<null>	<null>
+zlatko vujovic	Yugoslavia	<null>	<null>	<null>	<null>	<null>
+zlatko kranjčar	<null>	<null>	<null>	<null>	<null>	<null>
+zlatko junuzović	<null>	<null>	<null>	<null>	<null>	<null>
+zlatko junuzovic	Austria	1987-09-26 00:00:00	Midfield	right	172	7000000
+zlatko junuzovic	<null>	<null>	<null>	<null>	<null>	<null>
+zlatko junuzovic	Austria	1987-09-26 00:00:00	Midfield	right	172	7000000
+zlatko junuzovic	<null>	<null>	<null>	<null>	<null>	<null>
+zlatko junuzovic	Austria	1987-09-26 00:00:00	Midfield	right	172	7000000
+zlatko junuzovic	Austria	1987-09-26 00:00:00	Midfield	right	172	7000000
+zlatko dedić	<null>	<null>	<null>	<null>	<null>	<null>
+zlatan muslimović	<null>	<null>	<null>	<null>	<null>	<null>
+zlatan ljubijankić	<null>	<null>	<null>	<null>	<null>	<null>
+zlatan ibrahimović	Sweden	1981-10-03 00:00:00	Attack	right	195	46000000
+zlatan ibrahimović	Sweden	<null>	<null>	<null>	<null>	<null>
+zlatan ibrahimović	Sweden	1981-10-03 00:00:00	Attack	right	195	46000000
+zlatan ibrahimović	Sweden	1981-10-03 00:00:00	Attack	right	195	46000000
+zlatan ibrahimović	<null>	<null>	<null>	<null>	<null>	<null>
+zlatan ibrahimović	Sweden	1981-10-03 00:00:00	Attack	right	195	46000000
+zlatan ibrahimovic	<null>	<null>	<null>	<null>	<null>	<null>
+zlatan ibrahimovic	<null>	<null>	<null>	<null>	<null>	<null>
+zlatan bajramović	<null>	<null>	<null>	<null>	<null>	<null>
+zizo	Egypt	1996-01-10 00:00:00	Attack	right	180	5000000
+zizo	Egypt	1996-01-10 00:00:00	Attack	right	180	5000000
+zizo	Egypt	1996-01-10 00:00:00	Attack	right	180	5000000
+zizo	Egypt	1996-01-10 00:00:00	Attack	right	180	5000000
+zizinho	<null>	<null>	<null>	<null>	<null>	<null>
+zizi roberts	<null>	<null>	<null>	<null>	<null>	<null>
+ziyad al-kord	<null>	<null>	<null>	<null>	<null>	<null>
+ziya erdal	Türkiye	1988-01-05 00:00:00	Defender	left	182	4000000
+ziya erdal	Türkiye	1988-01-05 00:00:00	Defender	left	182	4000000
+ziya erdal	Türkiye	1988-01-05 00:00:00	Defender	left	182	4000000
+ziya erdal	Türkiye	1988-01-05 00:00:00	Defender	left	182	4000000
+zito luvumbo	Angola	2002-03-09 00:00:00	Attack	left	171	7500000
+zito luvumbo	Angola	2002-03-09 00:00:00	Attack	left	171	7500000
+zito luvumbo	Angola	2002-03-09 00:00:00	Attack	left	171	7500000
+zito luvumbo	Angola	2002-03-09 00:00:00	Attack	left	171	7500000
+zito	<null>	<null>	<null>	<null>	<null>	<null>
+zisis vryzas	<null>	<null>	<null>	<null>	<null>	<null>
+zion suzuki	Japan	2002-08-21 00:00:00	Goalkeeper	right	190	9000000
+zion suzuki	Japan	2002-08-21 00:00:00	Goalkeeper	right	190	9000000
+zion suzuki	Japan	2002-08-21 00:00:00	Goalkeeper	right	190	9000000
+zion suzuki	Japan	2002-08-21 00:00:00	Goalkeeper	right	190	9000000
+zini	<null>	<null>	<null>	<null>	<null>	<null>
+zinho vanheusden	Belgium	1999-07-29 00:00:00	Defender	right	187	18000000
+zinho vanheusden	Belgium	1999-07-29 00:00:00	Defender	right	187	18000000
+zinho vanheusden	Belgium	1999-07-29 00:00:00	Defender	right	187	18000000
+zinho vanheusden	Belgium	1999-07-29 00:00:00	Defender	right	187	18000000
+zinho	<null>	<null>	<null>	<null>	<null>	<null>
+zinedine zidane	France	<null>	<null>	<null>	<null>	<null>
+zinedine zidane	<null>	<null>	<null>	<null>	<null>	<null>
+zinedine machach	<null>	<null>	<null>	<null>	<null>	<null>
+zinedine machach	<null>	<null>	<null>	<null>	<null>	<null>
+zinedine ferhat	Algeria	1993-03-01 00:00:00	Attack	right	180	8000000
+zinedine ferhat	Algeria	1993-03-01 00:00:00	Attack	right	180	8000000
+zinedine ferhat	Algeria	1993-03-01 00:00:00	Attack	right	180	8000000
+zinedine ferhat	Algeria	1993-03-01 00:00:00	Attack	right	180	8000000
+zigmas sabaliauskas	<null>	<null>	<null>	<null>	<null>	<null>
+zie diabate	<null>	<null>	<null>	<null>	<null>	<null>
+zidane sam	<null>	<null>	<null>	<null>	<null>	<null>
+zidan-tymofiy dzhasim	Ukraine	2006-02-21 00:00:00	Defender	right	185	<null>
+zidan-tymofiy dzhasim	Ukraine	2006-02-21 00:00:00	Defender	right	185	<null>
+zidan-tymofiy dzhasim	Ukraine	2006-02-21 00:00:00	Defender	right	185	<null>
+zidan-tymofiy dzhasim	Ukraine	2006-02-21 00:00:00	Defender	right	185	<null>
+zico tumba	<null>	<null>	<null>	<null>	<null>	<null>
+zico	<null>	<null>	<null>	<null>	<null>	<null>
+zian flemming	Netherlands	1998-08-01 00:00:00	Midfield	right	185	4200000
+zian flemming	Netherlands	1998-08-01 00:00:00	Midfield	right	185	4200000
+zian flemming	Netherlands	1998-08-01 00:00:00	Midfield	right	185	4200000
+zian flemming	Netherlands	1998-08-01 00:00:00	Midfield	right	185	4200000
+ziad tlemçani	<null>	<null>	<null>	<null>	<null>	<null>
+ziad jaziri	<null>	<null>	<null>	<null>	<null>	<null>
+zia arabshahi	<null>	<null>	<null>	<null>	<null>	<null>
+zhu chenjie	<null>	<null>	<null>	<null>	<null>	<null>
+zhou haibin	<null>	<null>	<null>	<null>	<null>	<null>
+zhi gin lam	<null>	<null>	<null>	<null>	<null>	<null>
+zhi gin lam	<null>	<null>	<null>	<null>	<null>	<null>
+zheng zhi	<null>	<null>	<null>	<null>	<null>	<null>
+zheng zheng	<null>	<null>	<null>	<null>	<null>	<null>
+zheng bin	<null>	<null>	<null>	<null>	<null>	<null>
+zhao faqing	<null>	<null>	<null>	<null>	<null>	<null>
+zhao dayu	<null>	<null>	<null>	<null>	<null>	<null>
+zhang yuning	<null>	<null>	<null>	<null>	<null>	<null>
+zhang yaokun	<null>	<null>	<null>	<null>	<null>	<null>
+zhang xizhe	<null>	<null>	<null>	<null>	<null>	<null>
+zhang xiaowen	<null>	<null>	<null>	<null>	<null>	<null>
+zhang linpeng	<null>	<null>	<null>	<null>	<null>	<null>
+zhang honggen	<null>	<null>	<null>	<null>	<null>	<null>
+zhang enhua	<null>	<null>	<null>	<null>	<null>	<null>
+zhambyl kukeyev	<null>	<null>	<null>	<null>	<null>	<null>
+zerga geremew	<null>	<null>	<null>	<null>	<null>	<null>
+zenón gonzález	<null>	<null>	<null>	<null>	<null>	<null>
+zeno van den bosch	Belgium	2003-07-06 00:00:00	Defender	right	191	8000000
+zeno van den bosch	Belgium	2003-07-06 00:00:00	Defender	right	191	8000000
+zeno van den bosch	Belgium	2003-07-06 00:00:00	Defender	right	191	8000000
+zeno van den bosch	Belgium	2003-07-06 00:00:00	Defender	right	191	8000000
+zeno debast	Belgium	2003-10-24 00:00:00	Defender	right	191	24000000
+zeno debast	Belgium	2003-10-24 00:00:00	Defender	right	191	24000000
+zeno debast	Belgium	2003-10-24 00:00:00	Defender	right	191	24000000
+zeno debast	Belgium	2003-10-24 00:00:00	Defender	right	191	24000000
+zelão	Brazil	1984-11-12 00:00:00	Defender	right	188	3000000
+zelão	Brazil	1984-11-12 00:00:00	Defender	right	188	3000000
+zelão	Brazil	1984-11-12 00:00:00	Defender	right	188	3000000
+zelão	Brazil	1984-11-12 00:00:00	Defender	right	188	3000000
+zeljko brkic	Serbia	1986-07-09 00:00:00	Goalkeeper	right	198	4500000
+zeljko brkic	<null>	<null>	<null>	<null>	<null>	<null>
+zeljko brkic	Serbia	1986-07-09 00:00:00	Goalkeeper	right	198	4500000
+zeljko brkic	<null>	<null>	<null>	<null>	<null>	<null>
+zeljko brkic	Serbia	1986-07-09 00:00:00	Goalkeeper	right	198	4500000
+zeljko brkic	Serbia	1986-07-09 00:00:00	Goalkeeper	right	198	4500000
+zelimkhan bakayev	<null>	<null>	<null>	<null>	<null>	<null>
+zelimkhan bakaev	Russia	1996-07-01 00:00:00	Attack	left	180	10000000
+zelimkhan bakaev	Russia	1996-07-01 00:00:00	Attack	left	180	10000000
+zelimkhan bakaev	Russia	1996-07-01 00:00:00	Attack	left	180	10000000
+zelimkhan bakaev	Russia	1996-07-01 00:00:00	Attack	left	180	10000000
+zelfy nazary	<null>	<null>	<null>	<null>	<null>	<null>
+zeki fryers	England	1992-09-09 00:00:00	Defender	left	185	3500000
+zeki fryers	England	1992-09-09 00:00:00	Defender	left	185	3500000
+zeki fryers	England	1992-09-09 00:00:00	Defender	left	185	3500000
+zeki fryers	England	1992-09-09 00:00:00	Defender	left	185	3500000
+zeki dursun	Türkiye	2006-03-17 00:00:00	Midfield	left	<null>	<null>
+zeki dursun	Türkiye	2006-03-17 00:00:00	Midfield	left	<null>	<null>
+zeki dursun	Türkiye	2006-03-17 00:00:00	Midfield	left	<null>	<null>
+zeki dursun	Türkiye	2006-03-17 00:00:00	Midfield	left	<null>	<null>
+zeki celik	Türkiye	1997-02-17 00:00:00	Defender	right	180	20000000
+zeki celik	Türkiye	1997-02-17 00:00:00	Defender	right	180	20000000
+zeki celik	Türkiye	1997-02-17 00:00:00	Defender	right	180	20000000
+zeki celik	Türkiye	1997-02-17 00:00:00	Defender	right	180	20000000
+zeki amdouni	Switzerland	2000-12-04 00:00:00	Attack	both	185	15000000
+zeki amdouni	Switzerland	2000-12-04 00:00:00	Attack	both	185	15000000
+zeki amdouni	Switzerland	2000-12-04 00:00:00	Attack	both	185	15000000
+zeki amdouni	<null>	<null>	<null>	<null>	<null>	<null>
+zeki amdouni	Switzerland	2000-12-04 00:00:00	Attack	both	185	15000000
+zeiko lewis	<null>	<null>	<null>	<null>	<null>	<null>
+zeddy saileti	<null>	<null>	<null>	<null>	<null>	<null>
+zeca	<null>	<null>	<null>	<null>	<null>	<null>
+ze eduardo love	<null>	<null>	<null>	<null>	<null>	<null>
+ze eduardo	<null>	<null>	<null>	<null>	<null>	<null>
+ze eduardo	<null>	<null>	<null>	<null>	<null>	<null>
+ze castro	<null>	<null>	<null>	<null>	<null>	<null>
+ze castro	<null>	<null>	<null>	<null>	<null>	<null>
+zdravko rajkov	<null>	<null>	<null>	<null>	<null>	<null>
+zdravko lazarov	<null>	<null>	<null>	<null>	<null>	<null>
+zdravko kuzmanović	<null>	<null>	<null>	<null>	<null>	<null>
+zdravko kuzmanovic	Serbia	1987-09-22 00:00:00	Midfield	right	186	9500000
+zdravko kuzmanovic	<null>	<null>	<null>	<null>	<null>	<null>
+zdravko kuzmanovic	Serbia	1987-09-22 00:00:00	Midfield	right	186	9500000
+zdravko kuzmanovic	<null>	<null>	<null>	<null>	<null>	<null>
+zdravko kuzmanovic	Serbia	1987-09-22 00:00:00	Midfield	right	186	9500000
+zdravko kuzmanovic	Serbia	1987-09-22 00:00:00	Midfield	right	186	9500000
+zdeněk zikán	<null>	<null>	<null>	<null>	<null>	<null>
+zdeněk prokeš	<null>	<null>	<null>	<null>	<null>	<null>
+zdeněk pospěch	<null>	<null>	<null>	<null>	<null>	<null>
+zdeněk ondrášek	<null>	<null>	<null>	<null>	<null>	<null>
+zdeněk nehoda	Czechoslovakia	<null>	<null>	<null>	<null>	<null>
+zdeněk nehoda	<null>	<null>	<null>	<null>	<null>	<null>
+zdeněk grygera	<null>	<null>	<null>	<null>	<null>	<null>
+zdenek pospech	<null>	<null>	<null>	<null>	<null>	<null>
+zdenek pospech	<null>	<null>	<null>	<null>	<null>	<null>
+zbigniew boniek	Poland	<null>	<null>	<null>	<null>	<null>
+zbigniew boniek	<null>	<null>	<null>	<null>	<null>	<null>
+zaza janashia	<null>	<null>	<null>	<null>	<null>	<null>
+zayed sultan	<null>	<null>	<null>	<null>	<null>	<null>
+zaydou youssouf	Comoros	1999-07-11 00:00:00	Midfield	left	182	8000000
+zaydou youssouf	Comoros	1999-07-11 00:00:00	Midfield	left	182	8000000
+zaydou youssouf	Comoros	1999-07-11 00:00:00	Midfield	left	182	8000000
+zaydou youssouf	Comoros	1999-07-11 00:00:00	Midfield	left	182	8000000
+zaw min tun	<null>	<null>	<null>	<null>	<null>	<null>
+zaur tagizade	<null>	<null>	<null>	<null>	<null>	<null>
+zargo toure	<null>	<null>	<null>	<null>	<null>	<null>
+zanzan atte-oudeyi	<null>	<null>	<null>	<null>	<null>	<null>
+zanocelo	Brazil	2001-01-30 00:00:00	Midfield	right	185	3000000
+zanocelo	Brazil	2001-01-30 00:00:00	Midfield	right	185	3000000
+zanocelo	Brazil	2001-01-30 00:00:00	Midfield	right	185	3000000
+zanocelo	Brazil	2001-01-30 00:00:00	Midfield	right	185	3000000
+zanka	Denmark	1990-04-23 00:00:00	Defender	right	189	5000000
+zanka	Denmark	1990-04-23 00:00:00	Defender	right	189	5000000
+zanka	Denmark	1990-04-23 00:00:00	Defender	right	189	5000000
+zanka	Denmark	1990-04-23 00:00:00	Defender	right	189	5000000
+zan celar	Slovenia	1999-03-14 00:00:00	Attack	right	186	4000000
+zan celar	Slovenia	1999-03-14 00:00:00	Attack	right	186	4000000
+zan celar	Slovenia	1999-03-14 00:00:00	Attack	right	186	4000000
+zan celar	Slovenia	1999-03-14 00:00:00	Attack	right	186	4000000
+zamirbek jumagulov	<null>	<null>	<null>	<null>	<null>	<null>
+zamel essa al-kuwari	<null>	<null>	<null>	<null>	<null>	<null>
+zamel al kuwari	<null>	<null>	<null>	<null>	<null>	<null>
+zaldua	<null>	<null>	<null>	<null>	<null>	<null>
+zaker berdykulov	<null>	<null>	<null>	<null>	<null>	<null>
+zakarya bergdich	<null>	<null>	<null>	<null>	<null>	<null>
+zakarya bergdich	<null>	<null>	<null>	<null>	<null>	<null>
+zakaria sanogo	<null>	<null>	<null>	<null>	<null>	<null>
+zakaria labyad	Morocco	1993-03-09 00:00:00	Midfield	both	175	6000000
+zakaria labyad	Morocco	1993-03-09 00:00:00	Midfield	both	175	6000000
+zakaria labyad	Morocco	1993-03-09 00:00:00	Midfield	both	175	6000000
+zakaria labyad	Morocco	1993-03-09 00:00:00	Midfield	both	175	6000000
+zakaria el ouahdi	Morocco	2001-12-31 00:00:00	Defender	right	175	10000000
+zakaria el ouahdi	Morocco	2001-12-31 00:00:00	Defender	right	175	10000000
+zakaria el ouahdi	Morocco	2001-12-31 00:00:00	Defender	right	175	10000000
+zakaria el ouahdi	Morocco	2001-12-31 00:00:00	Defender	right	175	10000000
+zakaria bakkali	Belgium	1996-01-26 00:00:00	Attack	right	170	4000000
+zakaria bakkali	<null>	<null>	<null>	<null>	<null>	<null>
+zakaria bakkali	Belgium	1996-01-26 00:00:00	Attack	right	170	4000000
+zakaria bakkali	<null>	<null>	<null>	<null>	<null>	<null>
+zakaria bakkali	Belgium	1996-01-26 00:00:00	Attack	right	170	4000000
+zakaria bakkali	Belgium	1996-01-26 00:00:00	Attack	right	170	4000000
+zakaria aboukhlal	Morocco	2000-02-18 00:00:00	Attack	both	179	10000000
+zakaria aboukhlal	Morocco	2000-02-18 00:00:00	Attack	both	179	10000000
+zakaria aboukhlal	Morocco	2000-02-18 00:00:00	Attack	both	179	10000000
+zakaria aboukhlal	<null>	<null>	<null>	<null>	<null>	<null>
+zakaria aboukhlal	Morocco	2000-02-18 00:00:00	Attack	both	179	10000000
+zak dearnley	England	1998-09-28 00:00:00	Attack	right	180	<null>
+zak dearnley	England	1998-09-28 00:00:00	Attack	right	180	<null>
+zak dearnley	England	1998-09-28 00:00:00	Attack	right	180	<null>
+zak dearnley	England	1998-09-28 00:00:00	Attack	right	180	<null>
+zainudin kassim	<null>	<null>	<null>	<null>	<null>	<null>
+zaine pierre	<null>	<null>	<null>	<null>	<null>	<null>
+zainal abidin hassan	<null>	<null>	<null>	<null>	<null>	<null>
+zaidu	Nigeria	1997-06-13 00:00:00	Defender	left	182	10000000
+zaidu	Nigeria	1997-06-13 00:00:00	Defender	left	182	10000000
+zaidu	Nigeria	1997-06-13 00:00:00	Defender	left	182	10000000
+zaidu	Nigeria	1997-06-13 00:00:00	Defender	left	182	10000000
+zaid romero	Argentina	1999-12-15 00:00:00	Defender	left	192	6000000
+zaid romero	Argentina	1999-12-15 00:00:00	Defender	left	192	6000000
+zaid romero	Argentina	1999-12-15 00:00:00	Defender	left	192	6000000
+zaid romero	Argentina	1999-12-15 00:00:00	Defender	left	192	6000000
+zaid qunbar	<null>	<null>	<null>	<null>	<null>	<null>
+zahir rafiq	<null>	<null>	<null>	<null>	<null>	<null>
+zahi armeli	<null>	<null>	<null>	<null>	<null>	<null>
+zah rahan krangar	<null>	<null>	<null>	<null>	<null>	<null>
+zafar babajanow	<null>	<null>	<null>	<null>	<null>	<null>
+zack steffen	United States	1995-04-02 00:00:00	Goalkeeper	right	191	10000000
+zack steffen	United States	1995-04-02 00:00:00	Goalkeeper	right	191	10000000
+zack steffen	United States	1995-04-02 00:00:00	Goalkeeper	right	191	10000000
+zack steffen	United States	1995-04-02 00:00:00	Goalkeeper	right	191	10000000
+zachary brault-guillard	<null>	<null>	<null>	<null>	<null>	<null>
+zacharie boucher	France	1992-03-07 00:00:00	Goalkeeper	right	181	3000000
+zacharie boucher	France	1992-03-07 00:00:00	Goalkeeper	right	181	3000000
+zacharie boucher	France	1992-03-07 00:00:00	Goalkeeper	right	181	3000000
+zacharie boucher	France	1992-03-07 00:00:00	Goalkeeper	right	181	3000000
+zach muscat	<null>	<null>	<null>	<null>	<null>	<null>
+zach macphee	Scotland	2006-03-07 00:00:00	Missing	<null>	<null>	<null>
+zach macphee	Scotland	2006-03-07 00:00:00	Missing	<null>	<null>	<null>
+zach macphee	Scotland	2006-03-07 00:00:00	Missing	<null>	<null>	<null>
+zach macphee	Scotland	2006-03-07 00:00:00	Missing	<null>	<null>	<null>
+zach awe	England	2004-01-09 00:00:00	Defender	right	192	<null>
+zach awe	England	2004-01-09 00:00:00	Defender	right	192	<null>
+zach awe	England	2004-01-09 00:00:00	Defender	right	192	<null>
+zach awe	England	2004-01-09 00:00:00	Defender	right	192	<null>
+yūichi komano	<null>	<null>	<null>	<null>	<null>	<null>
+yéremy pino	Spain	2002-10-20 00:00:00	Attack	right	172	40000000
+yéremy pino	Spain	2002-10-20 00:00:00	Attack	right	172	40000000
+yéremy pino	Spain	2002-10-20 00:00:00	Attack	right	172	40000000
+yéremy pino	Spain	2002-10-20 00:00:00	Attack	right	172	40000000
+yénier márquez	<null>	<null>	<null>	<null>	<null>	<null>
+yáser asprilla	Colombia	2003-11-19 00:00:00	Attack	left	176	18000000
+yáser asprilla	Colombia	2003-11-19 00:00:00	Attack	left	176	18000000
+yáser asprilla	Colombia	2003-11-19 00:00:00	Attack	left	176	18000000
+yáser asprilla	Colombia	2003-11-19 00:00:00	Attack	left	176	18000000
+yvon mvogo	Switzerland	1994-06-06 00:00:00	Goalkeeper	right	190	4500000
+yvon mvogo	Switzerland	1994-06-06 00:00:00	Goalkeeper	right	190	4500000
+yvon mvogo	Switzerland	1994-06-06 00:00:00	Goalkeeper	right	190	4500000
+yvon mvogo	Switzerland	1994-06-06 00:00:00	Goalkeeper	right	190	4500000
+yvon goujon	<null>	<null>	<null>	<null>	<null>	<null>
+yvon douis	<null>	<null>	<null>	<null>	<null>	<null>
+yves yuvuladio	<null>	<null>	<null>	<null>	<null>	<null>
+yves vanderhaeghe	<null>	<null>	<null>	<null>	<null>	<null>
+yves herbet	<null>	<null>	<null>	<null>	<null>	<null>
+yves diba ilunga	<null>	<null>	<null>	<null>	<null>	<null>
+yves bissouma	Mali	1996-08-30 00:00:00	Midfield	right	182	35000000
+yves bissouma	Mali	1996-08-30 00:00:00	Midfield	right	182	35000000
+yves bissouma	Mali	1996-08-30 00:00:00	Midfield	right	182	35000000
+yves bissouma	<null>	<null>	<null>	<null>	<null>	<null>
+yves bissouma	Mali	1996-08-30 00:00:00	Midfield	right	182	35000000
+yvann maçon	France	1998-10-01 00:00:00	Defender	right	176	4500000
+yvann maçon	France	1998-10-01 00:00:00	Defender	right	176	4500000
+yvann maçon	France	1998-10-01 00:00:00	Defender	right	176	4500000
+yvann maçon	France	1998-10-01 00:00:00	Defender	right	176	4500000
+yvandro borges sanches	<null>	<null>	<null>	<null>	<null>	<null>
+yvan rajoarimanana	<null>	<null>	<null>	<null>	<null>	<null>
+yvan neyou	Cameroon	1997-01-03 00:00:00	Midfield	right	180	5000000
+yvan neyou	Cameroon	1997-01-03 00:00:00	Midfield	right	180	5000000
+yvan neyou	Cameroon	1997-01-03 00:00:00	Midfield	right	180	5000000
+yvan neyou	Cameroon	1997-01-03 00:00:00	Midfield	right	180	5000000
+yuzún ley	Spain	2004-01-18 00:00:00	Defender	right	180	<null>
+yuzún ley	Spain	2004-01-18 00:00:00	Defender	right	180	<null>
+yuzún ley	Spain	2004-01-18 00:00:00	Defender	right	180	<null>
+yuzún ley	Spain	2004-01-18 00:00:00	Defender	right	180	<null>
+yuzo kurihara	<null>	<null>	<null>	<null>	<null>	<null>
+yuya osako	Japan	1990-05-18 00:00:00	Attack	right	184	6000000
+yuya osako	<null>	<null>	<null>	<null>	<null>	<null>
+yuya osako	Japan	1990-05-18 00:00:00	Attack	right	184	6000000
+yuya osako	<null>	<null>	<null>	<null>	<null>	<null>
+yuya osako	Japan	1990-05-18 00:00:00	Attack	right	184	6000000
+yuya osako	<null>	<null>	<null>	<null>	<null>	<null>
+yuya osako	Japan	1990-05-18 00:00:00	Attack	right	184	6000000
+yuya kubo	Japan	1993-12-24 00:00:00	Midfield	right	178	5000000
+yuya kubo	Japan	1993-12-24 00:00:00	Midfield	right	178	5000000
+yuya kubo	Japan	1993-12-24 00:00:00	Midfield	right	178	5000000
+yuya kubo	<null>	<null>	<null>	<null>	<null>	<null>
+yuya kubo	Japan	1993-12-24 00:00:00	Midfield	right	178	5000000
+yuto nagatomo	Japan	1986-09-12 00:00:00	Defender	both	170	14000000
+yuto nagatomo	<null>	<null>	<null>	<null>	<null>	<null>
+yuto nagatomo	Japan	1986-09-12 00:00:00	Defender	both	170	14000000
+yuto nagatomo	<null>	<null>	<null>	<null>	<null>	<null>
+yuto nagatomo	Japan	1986-09-12 00:00:00	Defender	both	170	14000000
+yuto nagatomo	<null>	<null>	<null>	<null>	<null>	<null>
+yuto nagatomo	Japan	1986-09-12 00:00:00	Defender	both	170	14000000
+yutaka akita	<null>	<null>	<null>	<null>	<null>	<null>
+yusuf yazıcı	Türkiye	1997-01-29 00:00:00	Midfield	left	184	20000000
+yusuf yazıcı	Türkiye	1997-01-29 00:00:00	Midfield	left	184	20000000
+yusuf yazıcı	Türkiye	1997-01-29 00:00:00	Midfield	left	184	20000000
+yusuf yazıcı	<null>	<null>	<null>	<null>	<null>	<null>
+yusuf yazıcı	Türkiye	1997-01-29 00:00:00	Midfield	left	184	20000000
+yusuf yardimci	Turkey	2005-03-01 00:00:00	Midfield	right	181	<null>
+yusuf yardimci	Turkey	2005-03-01 00:00:00	Midfield	right	181	<null>
+yusuf yardimci	Turkey	2005-03-01 00:00:00	Midfield	right	181	<null>
+yusuf yardimci	Turkey	2005-03-01 00:00:00	Midfield	right	181	<null>
+yusuf sarı	Türkiye	1998-11-20 00:00:00	Attack	left	168	6500000
+yusuf sarı	Türkiye	1998-11-20 00:00:00	Attack	left	168	6500000
+yusuf sarı	Türkiye	1998-11-20 00:00:00	Attack	left	168	6500000
+yusuf sarı	Türkiye	1998-11-20 00:00:00	Attack	left	168	6500000
+yusuf rabiev	<null>	<null>	<null>	<null>	<null>	<null>
+yusuf kefkir	Türkiye	2006-11-06 00:00:00	Defender	left	<null>	<null>
+yusuf kefkir	Türkiye	2006-11-06 00:00:00	Defender	left	<null>	<null>
+yusuf kefkir	Türkiye	2006-11-06 00:00:00	Defender	left	<null>	<null>
+yusuf kefkir	Türkiye	2006-11-06 00:00:00	Defender	left	<null>	<null>
+yusuf inci	Türkiye	2005-02-01 00:00:00	Midfield	<null>	<null>	<null>
+yusuf inci	Türkiye	2005-02-01 00:00:00	Midfield	<null>	<null>	<null>
+yusuf inci	Türkiye	2005-02-01 00:00:00	Midfield	<null>	<null>	<null>
+yusuf inci	Türkiye	2005-02-01 00:00:00	Midfield	<null>	<null>	<null>
+yusuf gassan karasu	Turkey	2002-12-07 00:00:00	Midfield	<null>	<null>	<null>
+yusuf gassan karasu	Turkey	2002-12-07 00:00:00	Midfield	<null>	<null>	<null>
+yusuf gassan karasu	Turkey	2002-12-07 00:00:00	Midfield	<null>	<null>	<null>
+yusuf gassan karasu	Turkey	2002-12-07 00:00:00	Midfield	<null>	<null>	<null>
+yusuf erdoğan	Türkiye	1992-08-07 00:00:00	Attack	left	171	6250000
+yusuf erdoğan	Türkiye	1992-08-07 00:00:00	Attack	left	171	6250000
+yusuf erdoğan	Türkiye	1992-08-07 00:00:00	Attack	left	171	6250000
+yusuf erdoğan	Türkiye	1992-08-07 00:00:00	Attack	left	171	6250000
